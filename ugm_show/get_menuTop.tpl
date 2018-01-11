@@ -1,15 +1,15 @@
 
 <li class="nav-item">
-  <a class="nav-link js-scroll-trigger" href="#about">About</a>
+  <a class="nav-link js-scroll-trigger" href="#about">關於我們</a>
 </li>
 <li class="nav-item">
-  <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+  <a class="nav-link js-scroll-trigger" href="#services">最新消息</a>
 </li>
 <li class="nav-item">
-  <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+  <a class="nav-link js-scroll-trigger" href="#portfolio">商品管理</a>
 </li>
 <li class="nav-item">
-  <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+  <a class="nav-link js-scroll-trigger" href="#contact">聯絡我們</a>
 </li>
 
 改為
